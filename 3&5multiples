@@ -1,3 +1,4 @@
+//A simple "for" loop to sum up the multiples of 3 and 5 below 1000 and alert us with the total sum.
 var sum = 0;
 
 for (i = 0; i < 1000; i++){
